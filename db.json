@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith"
+    }
+  ],
+  "posts": [
+    {
+      "id": 2,
+      "title": "Post",
+      "body": "Conteúdo do Post 2",
+      "userId": 1
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "História"
+    },
+    {
+      "nome": "Terror",
+      "id": 4
+    },
+    {
+      "nome": "Drama",
+      "id": 5
+    },
+    {
+      "nome": "Comédia",
+      "id": 6
+    },
+    {
+      "nome": "Ação",
+      "id": 7
+    },
+    {
+      "nome": "Quadrinhos",
+      "id": 8
+    },
+    {
+      "nome": "auto-ajuda",
+      "id": 9
+    },
+    {
+      "nome": "Aventura",
+      "id": 10
+    },
+    {
+      "nome": "Biografia",
+      "id": 11
+    },
+    {
+      "nome": "Cordel",
+      "id": 12
+    },
+    {
+      "nome": "Mangá",
+      "id": 13
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "titulo": "É assim que acaba",
+      "autor": "Colleen Hoover",
+      "anoPublicacao": 2016,
+      "isbn": "9783423718622",
+      "disponivel": false,
+      "categoriaId": 5,
+      "id": 4
+    },
+    {
+      "titulo": "Turma da Mônica",
+      "autor": "Mauricio de Sousa",
+      "anoPublicacao": 1970,
+      "isbn": "978-8573518009.",
+      "disponivel": false,
+      "categoriaId": 8,
+      "id": 5
+    },
+    {
+      "titulo": "O poder dentro de você",
+      "autor": "Louise Hay",
+      "anoPublicacao": 1991,
+      "isbn": "10. 8533201001.",
+      "disponivel": false,
+      "categoriaId": 9,
+      "id": 6
+    },
+    {
+      "titulo": "O ladrão de raios",
+      "autor": "Percy Jackson ",
+      "anoPublicacao": 2011,
+      "isbn": "10. 8598078395",
+      "disponivel": false,
+      "categoriaId": 10,
+      "id": 7
+    },
+    {
+      "titulo": "Ayrton Senna, Uma Lenda A Toda Velocidade",
+      "autor": "Christopher Hilton",
+      "anoPublicacao": 2011,
+      "isbn": "13. 978-8526013711 ",
+      "disponivel": false,
+      "categoriaId": 11,
+      "id": 8
+    },
+    {
+      "titulo": "A seca do Ceará",
+      "autor": " Leandro Gomes de Barros",
+      "anoPublicacao": 2012,
+      "isbn": "13.‎978-8564406018 ",
+      "disponivel": false,
+      "categoriaId": 12,
+      "id": 9
+    },
+    {
+      "titulo": "Naruto",
+      "autor": " Masashi Kishimoto",
+      "anoPublicacao": 1999,
+      "isbn": "13.‎978-8542602418 ",
+      "disponivel": false,
+      "categoriaId": 13,
+      "id": 10
+    },
+    {
+      "titulo": "A culpa é das estrelas",
+      "autor": " John Green",
+      "anoPublicacao": 2014,
+      "isbn": " 10. 8580573807",
+      "disponivel": false,
+      "categoriaId": 5,
+      "id": 11
+    },
+    {
+      "titulo": "A Divina Comédia",
+      "autor": "Giovanni Boccaccio ",
+      "anoPublicacao": 1472,
+      "isbn": " 13, ‎978-8573261202.",
+      "disponivel": false,
+      "categoriaId": 6,
+      "id": 12
+    },
+    {
+      "titulo": "O pequeno príncipe em cordel ",
+      "autor": " Antoine de Saint-Exupéry",
+      "anoPublicacao": 2021,
+      "isbn": "9786588437841",
+      "disponivel": false,
+      "categoriaId": 12,
+      "id": 13
+    },
+    {
+      "titulo": "Desafios de cordel",
+      "autor": "César Obeid",
+      "anoPublicacao": 2018,
+      "isbn": "978-85-7706-119-8 ",
+      "disponivel": false,
+      "categoriaId": 12,
+      "id": 14
+    },
+    {
+      "titulo": "I, Robot",
+      "autor": "César Obeid",
+      "anoPublicacao": 2013,
+      "isbn": "13, ‎978-0007532278 ",
+      "disponivel": false,
+      "categoriaId": 1,
+      "id": 15
+    }
+  ]
+}
